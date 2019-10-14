@@ -296,7 +296,7 @@ color: #cccccc;
 transition: 0.3s;
 }
 .social-menu li a:hover{
-color: #eee;
+color: #ff8b38;
 }
 /*****************features****************/
 .features{
@@ -632,6 +632,7 @@ transition: 0.3s;
 }
 .footer-social-menu>li>a:hover{
 opacity: 0.7;
+color:#ff8b38;
 }
 .footer p{
 text-align: center;
