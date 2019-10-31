@@ -1017,7 +1017,7 @@ li.title {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 25px 0 45px;
+    padding: 0;
   }
 
   .menu li {
