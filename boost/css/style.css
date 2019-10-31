@@ -190,7 +190,7 @@ li.slick-active>button {
 }
 
 .contact-form input {
-  /*padding: 17px 83px 17px 43px;*/
+  padding: 17px 43px;
   background-color: #fff;
   border-radius: 2px;
   border: none;
@@ -937,10 +937,6 @@ li.title {
 
   .menu li a {
     padding: 10px 15px;
-  }
-
-  .contact-form {
-    justify-content: center;
   }
 
   .button-primary {
