@@ -194,7 +194,6 @@ li.slick-active>button {
   background-color: #fff;
   border-radius: 2px;
   border: none;
-  /*margin: 0 10px 0 0;*/
   font-size: 13px;
   font-weight: 400;
 }
@@ -1013,7 +1012,7 @@ li.title {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 25px 0 45px;
+    padding: 0 0 32px;
   }
 
   .menu li {
@@ -1055,7 +1054,9 @@ li.title {
   .banner {
     padding-bottom: 356px;
   }
-
+  .banner h1{
+  padding: 45px 0 33px;
+  }
   .banner-section {
     flex-direction: column-reverse;
     align-items: center;
@@ -1097,6 +1098,9 @@ li.title {
 }
 
 @media(max-width:767px) {
+  .header{
+    padding:0;
+  }
   .menu {
     display: none;
     background-color: transparent;
@@ -1132,7 +1136,7 @@ li.title {
   }
 
   .banner h1 {
-    font-size: 26px;
+    font-size: 24px;
     padding: 33px 0;
   }
 
