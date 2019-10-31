@@ -1017,7 +1017,7 @@ li.title {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 0;
+    padding: 0 0 32px;
   }
 
   .menu li {
@@ -1102,6 +1102,9 @@ li.title {
 }
 
 @media(max-width:767px) {
+  .header{
+    padding:0;
+  }
   .menu {
     display: none;
     background-color: transparent;
