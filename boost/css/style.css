@@ -190,11 +190,11 @@ li.slick-active>button {
 }
 
 .contact-form input {
-  padding: 17px 83px 17px 43px;
+  /*padding: 17px 83px 17px 43px;*/
   background-color: #fff;
   border-radius: 2px;
   border: none;
-  margin: 0 10px 0 0;
+  /*margin: 0 10px 0 0;*/
   font-size: 13px;
   font-weight: 400;
 }
@@ -944,10 +944,6 @@ li.title {
     justify-content: center;
   }
 
-  .contact-form input {
-    padding: 17px 35px 17px 35px;
-  }
-
   .button-primary {
     padding: 14px 25px;
   }
@@ -1071,7 +1067,6 @@ li.title {
   }
 
   .contact-form input {
-    width: 82%;
     padding: 17px 35px 17px 51px;
   }
 
@@ -1147,10 +1142,6 @@ li.title {
 
   .box-works {
     padding: 82px 100px;
-  }
-
-  .contact-form input {
-    padding: 17px 6px 17px 51px;
   }
 }
 
