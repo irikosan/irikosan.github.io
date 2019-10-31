@@ -1059,7 +1059,9 @@ li.title {
   .banner {
     padding-bottom: 356px;
   }
-
+  .banner h1{
+  padding: 45px 0 33px;
+  }
   .banner-section {
     flex-direction: column-reverse;
     align-items: center;
