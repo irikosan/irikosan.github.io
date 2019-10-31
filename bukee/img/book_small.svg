@@ -1,0 +1,72 @@
+<svg id="book_2" data-name="book 2" xmlns="http://www.w3.org/2000/svg" width="270" height="410" viewBox="0 0 270 410">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #44444f;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #65e496;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #3d3d47;
+      }
+
+      .cls-4 {
+        font-size: 24px;
+        font-family: "Roboto Slab";
+      }
+
+      .cls-4, .cls-5 {
+        text-anchor: middle;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-size: 15px;
+        font-family: "Open Sans";
+      }
+    </style>
+  </defs>
+  <g id="book_img" data-name="book img">
+    <rect id="book" class="cls-1" width="268.938" height="409" rx="5" ry="5"/>
+    <path id="Rectangle_11_copy_3" data-name="Rectangle 11 copy 3" class="cls-2" d="M251.672,297.169l105.655-61a5,5,0,1,1,5,8.659l-105.655,61A5,5,0,1,1,251.672,297.169Z" transform="translate(-2 -3)"/>
+    <path id="Rectangle_11_copy_2" data-name="Rectangle 11 copy 2" class="cls-2" d="M251.672,270.17l105.655-61a5,5,0,1,1,5,8.661l-105.655,61A5,5,0,1,1,251.672,270.17Z" transform="translate(-2 -3)"/>
+    <rect class="cls-3" width="37.906" height="409"/>
+  </g>
+  <text id="Fight_Club" data-name="Fight Club" class="cls-4" x="2" y="447.001">Fight Club</text>
+  <text id="READ_MORE" data-name="READ MORE" class="cls-5" y="580.999">READ MORE</text>
+</svg>
