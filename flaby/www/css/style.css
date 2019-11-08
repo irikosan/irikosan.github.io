@@ -529,8 +529,6 @@ h1 {
   color: #000;
 }
 
-.slide-content img {}
-
 .slide-content span {
   display: block;
   font-size: 15px;
@@ -918,8 +916,6 @@ li.list-item__advantage {
 }
 
 /**************************************************************************FOOTER*/
-.footer {}
-
 .footer-box {
   border-top: 1px solid #dfdfdf;
   border-bottom: 1px solid #dfdfdf;
@@ -1250,10 +1246,6 @@ a.soc-twitter:hover {
     box-shadow: none;
     background: transparent;
     border: none;
-  }
-
-  #slides {
-    /*width:100%;*/
   }
 }
 
