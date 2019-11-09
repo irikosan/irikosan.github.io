@@ -1107,7 +1107,9 @@ li.title {
   .btn-menu {
     display: block;
   }
-
+  .contact-form input{
+    width: 100%;
+  }
   .services-box {
     flex-direction: column;
     width: 80%;
