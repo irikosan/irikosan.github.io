@@ -351,7 +351,7 @@ about-as__img>img {
 }
 
 .about-as__text p {
-  font-size: 13px;
+  font-size: 14px;
   line-height: 24px;
   font-weight: 400;
   color: #ffffff;
@@ -1056,7 +1056,7 @@ li.title {
   }
 
   .banner-section {
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: center;
   }
 
@@ -1107,7 +1107,9 @@ li.title {
   .btn-menu {
     display: block;
   }
-  
+  .banner h1{
+    font-size: 32px;
+  }
   .services-box {
     flex-direction: column;
     width: 80%;
@@ -1125,6 +1127,9 @@ li.title {
 
   .box-works {
     padding: 82px 149px;
+  }
+  .box-works span{
+    font-size: 18px;
   }
 }
 
