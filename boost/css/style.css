@@ -116,7 +116,7 @@ p {
   letter-spacing: -0.025em;
   color: #ffffff;
   text-align: center;
-  padding: 110px 0 33px;
+  padding: 50px 0 33px;
 }
 
 .banner h1 span {
@@ -132,7 +132,7 @@ p {
 
 .banner {
   background-color: #709dca;
-  height: 589px;
+  height: 650px;
   position: relative;
   background-size: cover;
 }
@@ -142,7 +142,7 @@ p {
   width: 648px;
   height: 345px;
   position: absolute;
-  top: 305px;
+  top: 240px;
   display: block;
   left: calc(50% - 330px);
 }
