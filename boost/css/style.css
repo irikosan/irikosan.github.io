@@ -116,7 +116,7 @@ p {
   letter-spacing: -0.025em;
   color: #ffffff;
   text-align: center;
-  padding: 110px 0 33px;
+  padding: 50px 0 33px;
 }
 
 .banner h1 span {
@@ -132,7 +132,7 @@ p {
 
 .banner {
   background-color: #709dca;
-  height: 589px;
+  height: 650px;
   position: relative;
   background-size: cover;
 }
@@ -142,7 +142,7 @@ p {
   width: 648px;
   height: 345px;
   position: absolute;
-  top: 305px;
+  top: 240px;
   display: block;
   left: calc(50% - 330px);
 }
@@ -1021,6 +1021,7 @@ li.title {
 
   .banner {
     padding-bottom: 30px;
+    height: 533px;
   }
 
   .banner-section {
@@ -1050,16 +1051,17 @@ li.title {
   .banner {
     padding-bottom: 356px;
   }
-  .banner h1{
-  padding: 45px 0 33px;
+
+  .banner h1 {
+    padding: 45px 0 33px;
   }
+
   .banner-section {
     flex-direction: column-reverse;
     align-items: center;
   }
 
   .contact-form {
-    width: 62%;
     margin: 0 auto 30px;
   }
 
@@ -1094,9 +1096,10 @@ li.title {
 }
 
 @media(max-width:767px) {
-  .header{
-    padding:0;
+  .header {
+    padding: 0;
   }
+
   .menu {
     display: none;
     background-color: transparent;
