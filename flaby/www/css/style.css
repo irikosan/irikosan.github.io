@@ -654,16 +654,6 @@ h1 {
   }
 }
 
-@media(max-width:530px) {
-  #slides {
-    margin: 0;
-  }
-
-  #controls {
-    left: 73px;
-  }
-}
-
 @media(max-width:480px) {
   #slides {
     position: absolute;
@@ -1383,5 +1373,42 @@ h1 {
 
     .outher-services__box-item p {
       font-size: 16px;
+    }
+  }
+  @media(max-width: 433px) {
+    .first-screen__lead {
+      text-align: left;
+      left: 10%;
+      width: 80%;
+    }
+  
+    .first-screen__lead h1 {
+      font-size: 26px;
+    }
+  
+    .google {
+      font-size: 19px;
+    }
+  
+    .features {
+      height: 820px;
+    }
+  
+    .title {
+      margin-right: 45px;
+    }
+  
+    .pic-item {
+      display: none;
+    }
+  
+    .pricing-box {
+      align-items: flex-start;
+    }
+  
+    .pricing-box__item-center {
+      align-items: flex-start;
+      margin: 25px 0;
+      width: 291px;
     }
   }
