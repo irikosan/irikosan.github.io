@@ -1402,10 +1402,6 @@ h1 {
       display: none;
     }
   
-    .pricing-box {
-      align-items: flex-start;
-    }
-  
     .pricing-box__item-center {
       align-items: flex-start;
       margin: 25px auto 0;
