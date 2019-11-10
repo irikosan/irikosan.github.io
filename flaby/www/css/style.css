@@ -1375,7 +1375,7 @@ h1 {
       font-size: 16px;
     }
   }
-  @media(max-width: 433px) {
+  @media(max-width: 480px) {
     .first-screen__lead {
       text-align: left;
       left: 10%;
@@ -1408,7 +1408,10 @@ h1 {
   
     .pricing-box__item-center {
       align-items: flex-start;
-      margin: 25px 0;
-      width: 291px;
+      margin: 25px auto 0;
+      width: 100%;
+    }
+    .services-box__item{
+      width: 100%;
     }
   }
