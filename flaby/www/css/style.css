@@ -627,7 +627,7 @@ h1 {
 
 @media(max-width:768px) {
   #slides {
-    max-width: calc(100% - 280px);
+    max-width: 75%;
   }
 
   .slide-content p {
@@ -635,14 +635,14 @@ h1 {
   }
 
   #controls {
-    left: 162px;
+    left: 226px;
   }
 }
 
 @media(max-width:650px) {
   #slides {
-    max-width: calc(100% - 470px);
-    margin: 0 auto 0 50px;
+    max-width: 52%;
+    margin: 0 auto;
   }
 
   .slide img {
